@@ -381,3 +381,16 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+
+@media (max-width: 730px) {
+    .start_btn button{
+        font-size: 20px;
+        padding: 13px 25px;
+    }
+    .info_box{
+        width: 100%;
+    }
+    .info_box .info-list{
+        padding: 13px 25px;
+    }
+}
